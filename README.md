@@ -1,6 +1,4 @@
-Here is the revised README.md:
-
-# Alabi Ayobami OLuwamiseun  
+# Alabi Ayobami Oluwamiseun  
 
 ![Profile Image](me.jpg)
 
