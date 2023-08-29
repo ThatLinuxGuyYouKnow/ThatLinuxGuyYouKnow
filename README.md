@@ -1,26 +1,26 @@
-# Alabi Ayobami Oluwamiseun  
+# Alabi Ayobami Oluwamiseun
 
-![Profile Image](me.jpg)
+<img src="me.jpg" alt="Profile Image" width="200"/>
 
-A 2nd year student at the University of Lagos. Passionate about open source, climate change and environmental conservation.  
+A 2nd year student at the University of Lagos. Passionate about open source, climate change, and environmental conservation.
 
-## Tech Stack 
+## Tech Stack
 <p>
-<img alt="Flutter" src="[https://img.shields.io/badge/Flutter- ↗](https://img.shields.io/badge/Flutter-)%2302569B.svg?&style=for-the-badge&logo=Flutter&logoColor=white" />
-<img alt="NodeJS" src="[https://img.shields.io/badge/node.js ↗](https://img.shields.io/badge/node.js)%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/> 
-<img alt="JavaScript" src="[https://img.shields.io/badge/javascript- ↗](https://img.shields.io/badge/javascript-)%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
-<img alt="Ruby" src="[https://img.shields.io/badge/ruby- ↗](https://img.shields.io/badge/ruby-)%23CC342D.svg?&style=for-the-badge&logo=ruby&logoColor=white" />
-<img alt="Rails" src="[https://img.shields.io/badge/rails ↗](https://img.shields.io/badge/rails)%20-%23CC0000.svg?&style=for-the-badge&logo=ruby-on-rails&logoColor=white"/>
+<img alt="Flutter" src="https://img.shields.io/badge/Flutter-2569B.svg?&style=for-the-badge&logo=Flutter&logoColor=white" />
+<img alt="NodeJS" src="https://img.shields.io/badge/node.js-43853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
+<img alt="JavaScript" src="https://img.shields.io/badge/javascript-323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+<img alt="Ruby" src="https://img.shields.io/badge/ruby-CC342D.svg?&style=for-the-badge&logo=ruby&logoColor=white" />
+<img alt="Rails" src="https://img.shields.io/badge/rails-CC0000.svg?&style=for-the-badge&logo=ruby-on-rails&logoColor=white"/>
 </p>
 
 ## Favorite Open Source Project
-- [Supabase ↗](https://www.supabase.io/)
+- [Supabase](https://www.supabase.io/)
 
-## Current Projects    
+## Current Projects
 🛠 Working on:
-- Carbon Zero - An app that helps foster climate friendly habits.  
+- Carbon Zero - An app that helps foster climate-friendly habits.
 - Vouch - Helps customers and sellers navigate the Nigerian eCommerce space scam-free
 
 ## Hobbies
-🕹 Pixel Dungeon       
+🕹 Pixel Dungeon
 🌳 Climate Change Activism
