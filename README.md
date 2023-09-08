@@ -11,6 +11,7 @@ A 2nd year student at the University of Lagos. Passionate about open source, cli
 <img alt="JavaScript" src="https://img.shields.io/badge/javascript-323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
 <img alt="Ruby" src="https://img.shields.io/badge/ruby-CC342D.svg?&style=for-the-badge&logo=ruby&logoColor=white" />
 <img alt="Rails" src="https://img.shields.io/badge/rails-CC0000.svg?&style=for-the-badge&logo=ruby-on-rails&logoColor=white"/>
+<img alt="Django" src="https://img.shields.io/badge/Django-CC0000.svg?&style=for-the-badge&logo=ruby-on-rails&logoColor=white"/>
 </p>
 
 ## Favorite Open Source Project
