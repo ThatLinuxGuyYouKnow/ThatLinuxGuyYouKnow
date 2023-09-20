@@ -16,6 +16,7 @@ A 2nd year student at the University of Lagos. Passionate about open source, cli
 
 ## Favorite Open Source Projects
 - [Supabase](https://www.supabase.io/)
+- [nmap]
 
 ## Current Projects
 🛠 Working on:
