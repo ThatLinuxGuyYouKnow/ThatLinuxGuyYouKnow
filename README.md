@@ -6,7 +6,7 @@ A 2nd year student at the University of Lagos. Passionate about open source soft
 
 ## Tech Stack
 <p>
-<img alt="" src="https://img.shields.io/badge/Flutter-2569B.svg?&style=for-the-badge&logo=Flutter&logoColor=white" />
+<img alt="" src="https://img.shields.io/badge/Flutter-0000FF.svg?&style=for-the-badge&logo=Flutter&logoColor=white" />
 <img alt="ExpressJS" src="https://img.shields.io/badge/express.js-43001.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
 <img alt="NodeJS" src="https://img.shields.io/badge/node.js-43853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
 <img alt="JavaScript" src="https://img.shields.io/badge/javascript-323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
