@@ -1,6 +1,6 @@
 # Alabi Ayobami Oluwamiseun
 
-![Profile Image](me.jpg)
+
 
 A 2nd year student at the University of Lagos. Passionate about open source software, climate change activism, and environmental conservation.
 
