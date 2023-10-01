@@ -15,7 +15,7 @@ I'm a 2nd year student at the University of Lagos. Passionate about open source 
 <img alt="Django" src="https://img.shields.io/badge/Django-CC0010.svg?&style=for-the-badge&logo=django&logoColor=white"/>
 </p>
 
-## Favorite Open Source Projects
+## Favorite Open Source Project
 - [Supabase](https://www.supabase.io/)
 
 
