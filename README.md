@@ -1,7 +1,8 @@
 # Alabi Ayobami Oluwamiseun
 
 
-student at the University of Lagos. Passionate about open source software, climate change activism, and environmental conservation.
+Guy
+Passionate about open source software, climate change activism, and environmental conservation.
 
 ## Tech Stack
 <p>
