@@ -1,5 +1,5 @@
 # Alabi Ayobami 
-Dude. /n
+Dude. 
 Passionate about open source software, climate change activism, and environmental conservation.
 
 ## Tech Stack
