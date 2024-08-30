@@ -26,4 +26,5 @@ Passionate about open source software, climate change activism, and environmenta
 
 ## Hobbies
 🕹 Pixel Dungeon
+pLAYING 0a.D
 🌳 Climate Change Activism
