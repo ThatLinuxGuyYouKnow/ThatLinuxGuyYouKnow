@@ -23,7 +23,7 @@ Passionate about open source software, climate change activism, and environmenta
 🛠 Working on:
 - Carbon Zero - An app that helps foster climate-friendly habits.
 - summarize.ai - a website to summarize articles, urls and pdfs.
-- Vouch - Helps customers and sellers navigate the Nigerian eCommerce space scam-free.
+- Vouch - Helps customers and sellers navigate the eCommerce space scam-free.
 
 ## Hobbies
 🕹 Pixel Dungeon
