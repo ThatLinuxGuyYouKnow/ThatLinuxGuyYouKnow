@@ -1,6 +1,6 @@
 # Alabi Ayobami 
 Dude. 
-Passionate about open source software, climate change activism, and environmental conservation.
+Passionate about open source software.
 
 ## Tech Stack
 <p>
