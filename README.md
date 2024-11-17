@@ -25,6 +25,8 @@ Passionate about open source software.
 - summarize.ai - a website to summarize articles, urls and pdfs.
 - Vouch - Helps customers and sellers navigate the eCommerce space scam-free.
 
+## Learning
+
 ## Hobbies
 🕹 Pixel Dungeon
 🌳 pLAYING 0a.D
