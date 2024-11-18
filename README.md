@@ -28,6 +28,7 @@ Passionate about open source software.
 ## Learning
 - Golang
 - 3d designs in Blender
+- Concurrency in Dart
 ## Hobbies
 🕹 Pixel Dungeon
 🌳 pLAYING 0a.D
