@@ -26,7 +26,7 @@ Passionate about open source software.
 - Vouch - Helps customers and sellers navigate the eCommerce space scam-free.
 
 ## Learning
-
+- Golang
 ## Hobbies
 🕹 Pixel Dungeon
 🌳 pLAYING 0a.D
