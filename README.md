@@ -14,6 +14,10 @@ Passionate about open source software.
 <img alt="Django" src="https://img.shields.io/badge/Django-CC0010.svg?&style=for-the-badge&logo=django&logoColor=white"/>
 </p>
 
+## Platforms
+
+
+
 ## Favorite Open Source Projects
 - [Supabase](https://www.supabase.io/)
 - [0 ad](https://play0ad.com/)
