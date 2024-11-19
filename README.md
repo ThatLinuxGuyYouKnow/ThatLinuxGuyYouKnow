@@ -16,7 +16,6 @@ Passionate about open source software.
 
 ## Platforms
 
-
 ## Favorite Open Source Projects
 - [Supabase](https://www.supabase.io/)
 - [0 ad](https://play0ad.com/)
