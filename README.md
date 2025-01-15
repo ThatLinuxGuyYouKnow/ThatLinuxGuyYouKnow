@@ -26,6 +26,7 @@ Passionate about open source software.
 
 ![Glitch](https://img.shields.io/badge/glitch-%233333FF.svg?style=for-the-badge&logo=glitch&logoColor=white)
 </p>
+
 ## Favorite Open Source Projects
 - [Supabase](https://www.supabase.io/)
 - [0 ad](https://play0ad.com/)
