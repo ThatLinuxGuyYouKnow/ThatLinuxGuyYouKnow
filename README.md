@@ -15,12 +15,17 @@ Passionate about open source software.
 </p>
 
 ## Platforms
+<p>
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 ![Render](https://img.shields.io/badge/Render-%00000000.svg?style=for-the-badge&logo=render&logoColor=white)
 
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 
+![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+
+![Glitch](https://img.shields.io/badge/glitch-%233333FF.svg?style=for-the-badge&logo=glitch&logoColor=white)
+</p>
 ## Favorite Open Source Projects
 - [Supabase](https://www.supabase.io/)
 - [0 ad](https://play0ad.com/)
