@@ -17,6 +17,8 @@ Passionate about open source software.
 ## Platforms
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
+![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
+
 ## Favorite Open Source Projects
 - [Supabase](https://www.supabase.io/)
 - [0 ad](https://play0ad.com/)
