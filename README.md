@@ -15,7 +15,7 @@ Passionate about open source software.
 </p>
 
 ## Platforms
-<img alt="ExpressJS" src="https://img.shields.io/badge/aws-43001.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 ## Favorite Open Source Projects
 - [Supabase](https://www.supabase.io/)
