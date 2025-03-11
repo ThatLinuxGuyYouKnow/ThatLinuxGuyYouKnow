@@ -35,6 +35,7 @@ Passionate about open source software.
 - Vouch - Helps customers and sellers navigate the eCommerce space scam-free.
 
 ## Learning
+- Computer vision models
 - Golang
 - 3d designs in Blender
 - Concurrency in Dart
