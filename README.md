@@ -1,45 +1,55 @@
 # Alabi Ayobami 
-Dude. 
-Passionate about open source software.
 
-## Tech Stack
-<p>
-<img alt="" src="https://img.shields.io/badge/Flutter-0000FF.svg?&style=for-the-badge&logo=Flutter&logoColor=white" />
-<img alt="" src="https://img.shields.io/badge/Bubble.io-0000FF.svg?&style=for-the-badge&logo=Bubble&logoColor=white" />
-<img alt="ExpressJS" src="https://img.shields.io/badge/express.js-43001.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
-<img alt="NodeJS" src="https://img.shields.io/badge/node.js-43853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
-<img alt="JavaScript" src="https://img.shields.io/badge/javascript-323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
-<img alt="Ruby" src="https://img.shields.io/badge/ruby-CC342D.svg?&style=for-the-badge&logo=ruby&logoColor=white" />
-<img alt="Rails" src="https://img.shields.io/badge/rails-CC0000.svg?&style=for-the-badge&logo=ruby-on-rails&logoColor=white"/>
-<img alt="Django" src="https://img.shields.io/badge/Django-CC0010.svg?&style=for-the-badge&logo=django&logoColor=white"/>
-</p>
+### Applied AI Engineer & Mobile Systems Specialist
 
-## Platforms
+I specialize in **Knowledge Distillation**, **On-Device Inference**, and **Computer Vision**. My focus is building systems that run heavy compute workloads efficiently on the Edge (iOS/Android/Linux).
 
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=%23FF9900)
-![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
-![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Glitch](https://img.shields.io/badge/glitch-%23FF458D.svg?style=for-the-badge&logo=glitch&logoColor=white)
+---
 
+## ⚡ Tech Stack
 
-## Favorite Open Source Projects
-- [Supabase](https://www.supabase.io/)
-- [0 ad](https://play0ad.com/)
+| Domain | Technologies |
+| :--- | :--- |
+| **AI & ML** | PyTorch, TensorFlow, ONNX Runtime, llama.cpp, LoRA/QLoRA, Hugging Face |
+| **Mobile & Systems** | C++, Dart (Flutter), Swift, Bash, Linux Kernel, Docker |
+| **Data & Backend** | Python, FastAPI, PostgreSQL, Vector Databases (Chroma/Pinecone) |
+| **Infrastructure** | AWS (SageMaker), GCP, GitHub Actions (CI/CD) |
 
+---
 
-## Current Projects
-🛠 Working on:
-- Carbon Zero - An app that helps foster climate-friendly habits.
-- summarize.ai - a website to summarize articles, urls and pdfs.
-- Vouch - Helps customers and sellers navigate the eCommerce space scam-free.
+## Featured Engineering Projects
 
-## Learning
-- Computer vision models
-- Golang
-- 3d designs in Blender
-- Concurrency in Dart
-## Hobbies
-🕹 Pixel Dungeon
-🌳 pLAYING 0a.D
+### [EchoLLM](https://github.com/ThatLinuxGuyYouKnow/EchoLLM) | *On-Device Inference Engine* <Building>
+ 
+**A privacy-first mobile LLM runtime capable of running 1B+ parameter models offline.**
+*   **Distillation:** Built a pipeline to distill reasoning capabilities from **DeepSeek-R1** into a **1.7B parameter Qwen model**.
+*   **Optimization:** Manually quantized models to **4-bit GGUF**, reducing memory footprint to <1.2GB while maintaining 95% of reasoning benchmarks.
+*   **Systems:** Implemented a **C++ FFI bridge** to link the underlying inference engine directly to the Flutter UI, achieving **20 tokens/s** on consumer mobile hardware.
 
+### 🎵 [Vibe-Tuner]([LINK_HER](https://github.com/ThatLinuxGuyYouKnow/EchoLLM)E) | *NLP-Driven Recommendation System* <Building>
+ 
+**An NLP engine that maps abstract human sentiment to Spotify Audio Features.**
+*   **Architecture:** Replaced standard keyword search with a semantic vector mapping system (User Prompt -> Valence/Energy/Danceability Vectors).
+*   **Integration:** deeply integrated with the **Spotify Web API** to generate algorithmic playlists based on "Vibe" rather than Genre.
+*   **Stack:** Flutter, Python (NLP Middleware), Spotify OAuth 2.0.
+
+### 👁️ [Rubik-YOLO](https://github.com/ThatLinuxGuyYouKnow/rubik-yolo) | *Real-Time Mobile Computer Vision*
+**High-performance object detection system for 3D spatial objects.**
+*   **CV Pipeline:** Trained a custom **YOLOv8** model using Oriented Bounding Boxes (OBB) to track Rubik's cubes in dynamic lighting.
+*   **Deployment:** Converted PyTorch weights to **ONNX** for optimized cross-platform execution on mobile NPU/CPUs.
+*   **Data Ops:** Built an active learning loop using Label Studio to correct model drift.
+
+---
+
+## 🛠️ Open Source & Tools
+
+*   **[Bible_Extractor (ETL)](https://github.com/ThatLinuxGuyYouKnow/bible_extractor_v1):** A T5-based NLP pipeline for normalizing and structuring unstructured archaic text data.
+*   **[Jemma](https://github.com/ThatLinuxGuyYouKnow/jemma):** CLI-based developer tooling for automating data validation workflows.
+
+## 🔭 Current Research
+*   **Symbolic Distillation:** Experimenting with distilling "Chain of Thought" reasoning from 70B models into <3B mobile-class models.
+*   **Edge Quantization:** Benchmarking perplexity degradation in GGUF vs. AWQ formats for mobile NPUs.
+
+## 📫 Connect
+*   **GitHub:** [ThatLinuxGuyYouKnow](https://github.com/ThatLinuxGuyYouKnow)
+*   **LinkedIn:** [LinkedIn](https://github.com/ThatLinuxGuyYouKnow/jemma)
