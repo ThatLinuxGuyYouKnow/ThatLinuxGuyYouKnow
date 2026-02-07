@@ -6,7 +6,7 @@ Currently working on EchoLLM, a mobile LLM runtime that lets you run 1B+ paramet
 
 Other things I've built:
 - **Vibe-Tuner**: NLP-driven Spotify recommendations that map your mood to actual audio features instead of just keyword matching
-- **Rubik-YOLO**: Real-time object detection on mobile using custom YOLOv8 models, because apparently I enjoy pain
+- **Rubik-YOLO**: Real-time object detection on mobile using custom YOLOv8 models.
 - **Bible_Extractor**: A T5-based pipeline for normalizing archaic text data (long story)
 
 I spend most of my time trying to fit language models into devices with less RAM than my browser tabs, benchmarking quantization formats, and figuring out why things run fast on Linux but not on Android.
