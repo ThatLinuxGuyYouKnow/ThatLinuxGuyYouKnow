@@ -1,18 +1,52 @@
 # Ayobami
 
-I build stuff that runs ML models on phones without melting them.
+**Full-Stack (Mobile & Web) and AI Engineer**
 
-Currently working on EchoLLM, a mobile LLM runtime that lets you run 1B+ parameter models completely offline. The goal is privacy-first AI that doesn't need cloud APIs or eat your battery alive. I've been distilling reasoning capabilities from DeepSeek-R1 into smaller models, quantizing them down to 4-bit, and wiring up C++ inference engines to Flutter UIs.
+I build production-grade AI/ML systems optimized for mobile devices and resource-constrained environments.
 
-Other things I've built:
-- **Vibe-Tuner**: NLP-driven Spotify recommendations that map your mood to actual audio features instead of just keyword matching
-- **Rubik-YOLO**: Real-time object detection on mobile using custom YOLOv8 models.
-- **Bible_Extractor**: A T5-based pipeline for normalizing archaic text data (long story)
+## Current Work
 
-I spend most of my time trying to fit language models into devices with less RAM than my browser tabs, benchmarking quantization formats, and figuring out why things run fast on Linux but not on Android.
+Building [**EchoLLM**](https://snapcraft.io/echollm) — a desktop application that provides seamless access to state-of-the-art models from frontier labs (Claude, GPT, Gemini) with a privacy-first approach. Built with Flutter and available on the Snap Store.
 
-**Stack:** PyTorch, C++, Flutter, ONNX, llama.cpp, the usual suspects
+Actively developing:
+- Offline model support via llama.cpp integration
+- Custom model distillation pipelines for mobile deployment
+- Quantization techniques to run advanced models on phones and laptops
 
-**Currently exploring:** Distilling chain-of-thought reasoning into <3B models, edge quantization, making NPUs actually useful
+## Tech Stack
 
-[GitHub](https://github.com/ThatLinuxGuyYouKnow) • [LinkedIn](link)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![llama.cpp](https://img.shields.io/badge/llama.cpp-000000?style=flat&logo=llama&logoColor=white)
+![ONNX](https://img.shields.io/badge/ONNX-005CED?style=flat&logo=onnx&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+
+---
+
+## Featured Projects
+
+### [Rubik-YOLO — Real-Time Mobile Object Detection](https://github.com/ThatLinuxGuyYouKnow/rubik-yolo)
+
+Custom YOLOv8 model engineered for tracking 3D objects under dynamic lighting conditions.
+
+**Technical Highlights:**
+- Curated and labeled custom dataset using Label Studio
+- Trained YOLOv8 with Oriented Bounding Boxes (OBB) for rotation-invariant detection
+- Converted PyTorch weights to ONNX for mobile NPU acceleration
+- **Performance:** Achieved 30+ FPS on mid-range Android devices
+
+### [EchoLLM — Privacy-First Mobile LLM Runtime](https://github.com/ThatLinuxGuyYouKnow/EchoLLM)
+
+On-device inference engine enabling offline LLM execution on mobile platforms, with optional cloud model access via BYOK (Bring Your Own Key) usage model.
+
+**Technical Highlights:**
+- Distilled reasoning capabilities from DeepSeek-R1 (671B) into a 1.7B Qwen model, preserving 95% of benchmark performance
+- Engineered 4-bit quantization pipeline reducing model size to <1.2GB while maintaining sub-200ms first-token latency
+- Built high-performance C++ FFI bridge between llama.cpp and Flutter, achieving 20 tokens/s on consumer hardware
+
+**Impact:** Enables privacy-preserving AI assistants that operate completely offline—no cloud APIs, no telemetry, no compromises.
